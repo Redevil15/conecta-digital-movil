@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Conecta Digital Móvil",
+    "slug": "conecta-digital-movil",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "conectadigital",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1F3864"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "mx.cefodeh.conectadigital"
+    },
+    "android": {
+      "package": "mx.cefodeh.conectadigital",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1F3864"
+      },
+      "permissions": ["INTERNET"]
+    },
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": false
+    }
+  }
+}
