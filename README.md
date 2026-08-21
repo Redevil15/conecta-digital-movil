@@ -13,21 +13,6 @@ las acciones básicas **CRUD** sobre las solicitudes de apoyo.
 - Expo CLI (`npx expo`)
 - Una cuenta y proyecto de Firebase (gratuito)
 
-## Instalación
-
-```bash
-npm install
-```
-
-Configura tus llaves de Firebase en `src/services/firebaseConfig.js` (ver los
-pasos comentados en ese archivo). Después:
-
-```bash
-npx expo start
-```
-
-Escanea el código QR con la app **Expo Go** (Android/iOS) para probarla.
-
 ## Funcionalidad (CRUD + Firebase)
 
 | Acción | Pantalla |
