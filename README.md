@@ -37,15 +37,4 @@ Escanea el código QR con la app **Expo Go** (Android/iOS) para probarla.
 | Editar / cambiar estado (UPDATE) | Detalle de solicitud |
 | Borrar (DELETE) | Detalle de solicitud |
 
-## Generar el APK
 
-Ver `IMPLEMENTATION_PLAN.md` (sección 7): EAS Build o build local con Android SDK.
-
-## Estructura
-
-Ver `IMPLEMENTATION_PLAN.md` para el detalle de pantallas, rutas, modelo de datos
-y operaciones del servicio.
-
-## Licencia
-
-Proyecto académico — Universidad del Valle de México.
